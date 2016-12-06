@@ -2,7 +2,7 @@ Binaries
 DerivedDataCache
 Intermediate
 Saved
-Content/StarterContent
+*/Content/StarterContent/*
 *.VC.db
 *.opensdf
 *.opendb
@@ -10,4 +10,5 @@ Content/StarterContent
 *.sln
 *.suo
 *.xcodeproj
+*.xcworkspace
 *.xcworkspace
